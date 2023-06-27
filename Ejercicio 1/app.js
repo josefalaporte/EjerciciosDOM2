@@ -1,10 +1,6 @@
 //Modificar el estilo del texto del párrafo mediante código javascript. Ejemplo de archivo HTML:
 //Al hacer clic en el botón, la fuente, el tamaño de fuente y el color del texto del párrafo deben cambiar.
 
-//const parrafo = document.querySelector('p');
-//console.log(parrafo);
-
-//console.log(parrafo.innerText);
 
 function js_style() {
     const parrafo = document.getElementById("text");
